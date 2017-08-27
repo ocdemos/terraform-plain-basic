@@ -1,0 +1,1 @@
+# terraform-plain-basic
